@@ -1,0 +1,6 @@
+@media (max-width: 580px) {/* maximum 575px ekrandakı kırılma noktası*/
+    .ms {
+        margin-left: 3%;  } }
+@media (min-width:580px) {/* maximum 575px ekrandakı kırılma noktası*/
+    .ms {
+     margin-left: 25% !important; } }
